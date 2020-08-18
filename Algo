@@ -1,2 +1,11 @@
-1. Decide which business to  order from
-2.Decide which type of pizza order
+** Pizza Algorithm Program
+1. Decide Pizza Place
+2. Look at the menu
+3. Decide on the Pizza
+4. Call the Pizza Place
+5. Place my order
+6. Choose payment method
+7. Wait
+8. Receive Pizza
+    a. pizza is acceptable
+    b. pizza is not acceptable, see step 4 please
